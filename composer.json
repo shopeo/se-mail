@@ -1,0 +1,17 @@
+{
+  "name": "shopeo/se-mail",
+  "description": "SHOPEO Mail",
+  "autoload": {
+    "psr-4": {
+      "Shopeo\\SeMail\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "SHOPEO",
+      "email": "hello@shopeo.cn",
+      "homepage": "http://shopeo.cn"
+    }
+  ],
+  "require": {}
+}
